@@ -1,0 +1,13 @@
+applications:
+- name: sensor-a-app
+  versions:
+  - name: sensor-a-app-ver-1
+    number: 1
+- name: sensor-b-app
+  versions:
+  - name: sensor-b-app-ver-1
+    number: 1
+  - name: sensor-b-app-ver-2
+    number: 2
+  - name: sensor-b-app-ver-3
+    number: 3
