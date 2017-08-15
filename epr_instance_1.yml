@@ -9,4 +9,3 @@ applications:
     number: 1
   - name: sensor-b-app-ver-2
     number: 2
-
